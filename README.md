@@ -135,10 +135,10 @@
 
 --->
 
-### Some Example Visualisations of Real Networks
-![1](https://github.com/user-attachments/assets/f573a1e9-c26a-4b0a-b418-627b00cff5a7)
 
 <!--
+### Some Example Visualisations of Real Networks
+![1](https://github.com/user-attachments/assets/f573a1e9-c26a-4b0a-b418-627b00cff5a7)
 ![2](https://github.com/user-attachments/assets/c161f439-db4d-49be-a406-9ba84835300d)
 ![3](https://github.com/user-attachments/assets/a408d341-2f83-4609-bb9b-70ec5e8246e6)
 ![4](https://github.com/user-attachments/assets/cd646d2a-8f16-4ff3-9569-80ffb6427723)
