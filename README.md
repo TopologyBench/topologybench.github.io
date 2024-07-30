@@ -147,6 +147,20 @@
 --->
 
 
+## Open Data
+- There are three datasets available for download on Zenodo: https://zenodo.org/records/12593795
+
+| Name           | Type                        | Number of Topologies | Format                                       |
+|----------------|-----------------------------|----------------------|----------------------------------------------|
+| Real Topologies| Real World Existing Topologies | 105               | Excel                                        |
+| Syn-small      | Synthetic Topologies        | 900                  | Pickle                                       |
+| Syn-large      | Synthetic Topologies        | 200k+                | Pickle                                       |
+
+
+## Reproducible Analysis
+- The analysis of real and synthetic topologies in the Topology Bench paper is here: 
+
+
 ## Sponsored and Supported By
 - University of Cambridge
 - EPSRC
