@@ -12,14 +12,22 @@ There are three datasets available for download on Zenodo: [https://zenodo.org/r
 | Syn-large      | Synthetic Topologies        | 200k+                | Pickle                                       |
 
 
-Matzner, R., Ahuja, A., Sadeghi, R., Doherty, M., Beghelli, A., Savory, S. J., & Bayvel, P. (2024). Topology Bench: Systematic Graph Based Benchmarking for Optical Networks [Data set]. Zenodo. https://doi.org/10.5281/zenodo.12593795
-
 ## Reproducible Analysis
 The statistical analysis of real and synthetic topologies in the Topology Bench paper is [https://github.com/TopologyBench/analysis](https://github.com/TopologyBench/analysis).
 
+| Analysis File           | Description                                                    | Class     | 
+|-------------------------|----------------------------------------------------------------|-----------|
+| correlation             | Summary stats, correlations and outliers of graph metrics associated with real topologies    | Real      |
+| clustering              | Computes the clustering on 105 real topologies using k means and SVM | Real      |
+| generation              | Generates the topology using SNR BA model | Synthetic-small | 
+| analysis                | Structural, physical and spectral analysis of real and synthetic topologies |  Synthetic-small | 
+| analysis                | Analysis of large dataset | Synthetic-large |
 
 
-## Real World Topology
+## Real World Topology Clustering
+The following table covers the list of 105 topologies collected, processed and analysed in the dataset benchmark. 
+The category column represents the group a topology belongs to after using multivariate structural, physical and spatial metrics. 
+The topology is survivable if each node has a minimum of node degree 2. 
 
 <!---
 | Real World Topology | Topology (Nodes, Edges) | Simulated Traffic (Type 1, 2, 3) | Visualisation         | Download |
