@@ -2,6 +2,23 @@
 
 **TopologyBench standardises research on core optical networks by setting up a uniform, homogenous and accessible dataset benchmark**
 
+## Open Data
+There are three datasets available for download on Zenodo: [https://zenodo.org/records/12593795](https://zenodo.org/records/12593795).
+
+| Name           | Type                        | Number of Topologies | Format                                       |
+|----------------|-----------------------------|----------------------|----------------------------------------------|
+| Real Topologies| Real World Existing Topologies | 105               | Excel                                        |
+| Syn-small      | Synthetic Topologies        | 900                  | Pickle                                       |
+| Syn-large      | Synthetic Topologies        | 200k+                | Pickle                                       |
+
+
+Matzner, R., Ahuja, A., Sadeghi, R., Doherty, M., Beghelli, A., Savory, S. J., & Bayvel, P. (2024). Topology Bench: Systematic Graph Based Benchmarking for Optical Networks [Data set]. Zenodo. https://doi.org/10.5281/zenodo.12593795
+
+## Reproducible Analysis
+The statistical analysis of real and synthetic topologies in the Topology Bench paper is [https://github.com/TopologyBench/analysis](https://github.com/TopologyBench/analysis).
+
+
+
 ## Real World Topology
 
 <!---
@@ -145,22 +162,6 @@
 ![5](https://github.com/user-attachments/assets/e26a7ac5-5485-445e-b138-f33ba76fa327)
 ![6](https://github.com/user-attachments/assets/3f11c808-040e-4410-90f0-8732bd4a8844)
 --->
-
-
-## Open Data
-There are three datasets available for download on Zenodo: [https://zenodo.org/records/12593795](https://zenodo.org/records/12593795).
-
-| Name           | Type                        | Number of Topologies | Format                                       |
-|----------------|-----------------------------|----------------------|----------------------------------------------|
-| Real Topologies| Real World Existing Topologies | 105               | Excel                                        |
-| Syn-small      | Synthetic Topologies        | 900                  | Pickle                                       |
-| Syn-large      | Synthetic Topologies        | 200k+                | Pickle                                       |
-
-
-Matzner, R., Ahuja, A., Sadeghi, R., Doherty, M., Beghelli, A., Savory, S. J., & Bayvel, P. (2024). Topology Bench: Systematic Graph Based Benchmarking for Optical Networks [Data set]. Zenodo. https://doi.org/10.5281/zenodo.12593795
-
-## Reproducible Analysis
-The statistical analysis of real and synthetic topologies in the Topology Bench paper is [https://github.com/TopologyBench/analysis](https://github.com/TopologyBench/analysis).
 
 
 
