@@ -1,6 +1,6 @@
 # TopologyBench
 
-**TopologyBench standardises research on core optical networks.**
+**TopologyBench standardises research on core optical networks by setting up a uniform, homogenous and accessible dataset benchmark**
 
 ## Real World Topology
 
@@ -148,7 +148,7 @@
 
 
 ## Open Data
-- There are three datasets available for download on Zenodo: https://zenodo.org/records/12593795
+There are three datasets available for download on Zenodo: https://zenodo.org/records/12593795
 
 | Name           | Type                        | Number of Topologies | Format                                       |
 |----------------|-----------------------------|----------------------|----------------------------------------------|
@@ -158,7 +158,8 @@
 
 
 ## Reproducible Analysis
-- The analysis of real and synthetic topologies in the Topology Bench paper is here: 
+The statistical analysis of real and synthetic topologies in the Topology Bench paper is here: https://github.com/TopologyBench/analysis
+
 
 
 ## Sponsored and Supported By
