@@ -1,6 +1,10 @@
 # TopologyBench
+Our work benchmarks physical topologies representing optical fibre networks for open research. 
 
-**TopologyBench standardises research on core optical networks by setting up a uniform, homogenous and accessible dataset benchmark**
+## Systematic Graph Based Benchmarking for Optical Networks
+TopologyBench standardises research on core optical networks. 
+The dataset is uniform, homogenous and accessible and contains real-world and synthetically generated physical topologies as graphs. 
+This availability of diverse large-scale graphs will enable benchmarking of algorithms and machine learning models.
 
 ## Open and Accessible Data
 There are three datasets available for download on Zenodo: [https://zenodo.org/records/12593795](https://zenodo.org/records/12593795).
