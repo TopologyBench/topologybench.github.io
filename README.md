@@ -2,7 +2,7 @@
 
 **TopologyBench standardises research on core optical networks by setting up a uniform, homogenous and accessible dataset benchmark**
 
-## Open Data
+## Open and Accessible Data
 There are three datasets available for download on Zenodo: [https://zenodo.org/records/12593795](https://zenodo.org/records/12593795).
 
 | Name           | Type                        | Number of Topologies | Format                                       |
