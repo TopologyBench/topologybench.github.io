@@ -177,7 +177,10 @@ The topology is survivable if each node has a minimum of node degree 2.
 
 
 
-## Sponsored and Supported By
+## Acknowledgements  
+The research was supported by the University of Cambridge, University College London, EPSRC, British Telecommunications, Google Generation Scholarship, and TRANSNET.
+
+<!---
 - University of Cambridge
 - EPSRC
 - UKRI
@@ -185,6 +188,7 @@ The topology is survivable if each node has a minimum of node degree 2.
 - Google Generation Scholarship
 - University College London
 - TRANSNET
+--->
 
 <!--
 ![University of Cambridge](UniversityOfCambridge.png)
