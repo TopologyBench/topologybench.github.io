@@ -148,7 +148,7 @@
 
 
 ## Open Data
-There are three datasets available for download on Zenodo: https://zenodo.org/records/12593795
+There are three datasets available for download on Zenodo: [https://zenodo.org/records/12593795](https://zenodo.org/records/12593795).
 
 | Name           | Type                        | Number of Topologies | Format                                       |
 |----------------|-----------------------------|----------------------|----------------------------------------------|
@@ -157,8 +157,10 @@ There are three datasets available for download on Zenodo: https://zenodo.org/re
 | Syn-large      | Synthetic Topologies        | 200k+                | Pickle                                       |
 
 
+Matzner, R., Ahuja, A., Sadeghi, R., Doherty, M., Beghelli, A., Savory, S. J., & Bayvel, P. (2024). Topology Bench: Systematic Graph Based Benchmarking for Optical Networks [Data set]. Zenodo. https://doi.org/10.5281/zenodo.12593795
+
 ## Reproducible Analysis
-The statistical analysis of real and synthetic topologies in the Topology Bench paper is here: https://github.com/TopologyBench/analysis
+The statistical analysis of real and synthetic topologies in the Topology Bench paper is [https://github.com/TopologyBench/analysis](https://github.com/TopologyBench/analysis).
 
 
 
