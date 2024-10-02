@@ -1,4 +1,4 @@
-# TopologyBench
+# Topology Bench
 Our work benchmarks physical topologies representing optical fibre networks for open research. 
 
 ## Systematic Graph Based Benchmarking for Optical Networks
