@@ -8,7 +8,7 @@ This availability of diverse large-scale graphs will enable benchmarking of algo
 
 
 ## Open and Accessible Data
-There are three datasets available for download on Zenodo: [https://zenodo.org/records/12593795](https://zenodo.org/records/12593795).
+There are three datasets available for download on Zenodo: [[https://zenodo.org/records/12593795](https://zenodo.org/records/13921775)](https://zenodo.org/records/12593795).
 
 | Name           | Type                        | Number of Topologies | Format                                       |
 |----------------|-----------------------------|----------------------|----------------------------------------------|
