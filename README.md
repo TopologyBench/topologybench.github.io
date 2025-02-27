@@ -6,6 +6,7 @@ TopologyBench standardises research on core optical networks.
 The dataset is uniform, homogenous and accessible and contains real-world and synthetically generated physical topologies as graphs. 
 This availability of diverse large-scale graphs will enable benchmarking of algorithms and machine learning models.
 
+
 ## Open and Accessible Data
 There are three datasets available for download on Zenodo: [https://zenodo.org/records/12593795](https://zenodo.org/records/12593795).
 
@@ -199,6 +200,13 @@ The research was supported by the University of Cambridge, University College Lo
 ![University College London](UniversityCollegeLondon.png)
 ![TRANSNET](TRANSNET.png)
 -->
+
+
+## A quick summary of The Topology Bench Paper - Presented at TOP conference, 2025.
+
+![final poster top 2025 (1)](https://github.com/user-attachments/assets/dcef20b3-d130-4089-b8d7-8589b7452d0e)
+
+
 
 If you use any of the data provided, please cite our paper:
 ```
